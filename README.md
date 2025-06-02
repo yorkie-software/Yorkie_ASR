@@ -1,2 +1,2 @@
 # Yorkie_ASR
-Yorkie ASR 安裝程式下載
+Yorkie ASR 純離線型音檔轉譯文字程式。
