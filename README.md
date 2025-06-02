@@ -90,6 +90,7 @@ Yorkie ASR 僅支援 **16000Hz、單聲道、WAV 格式** 的音訊輸入。如�
 
 ffmpeg -i input.mp3 -ac 1 -ar 16000 output.wav
 
+---
 
 ## 🐾 關於 Yorkie 語音
 
